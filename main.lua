@@ -18,6 +18,7 @@ print('\n --- IO')
 
 print('Hello World')
 print('var', varString)
+print('var '..varString)
 print('varTable', varTable1[1])
 print('varTable', varTable2.keyA)
 io.write('varTable ', varTable2[10], '\n')
