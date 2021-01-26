@@ -14,7 +14,8 @@ varTable2 = {
 
 -- io
 
-print('Output')
+print('\n --- IO')
+
 print('Hello World')
 print('var', varString)
 print('varTable', varTable1[1])
